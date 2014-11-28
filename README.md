@@ -54,7 +54,7 @@ Day One, Evernote, iA Writer, Maps, OmniFocus, Pocket and Reeder by [@matt_fletc
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/rayps_preview_1127.png)
 
-Firezilla, iTerm, OmniFocus, Safari, Spotify and Wunderlist by [@raypS_](http://twitter.com/rayps_)
+Firezilla, iTerm, OmniFocus, Safari, Spotify and Wunderlist by [@rayPS_](http://twitter.com/rayps_)
 
 ---
 
@@ -66,7 +66,7 @@ Clear, Eclipse, Photoshop and SourceTree by [@ryanb93](http://twitter.com/ryanb9
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagovieira_preview_1127.png)
 
-Fireworks, Photoshop, Dropbox, Google Drive, Nike+ and SourceTree by [@thiagovieiracom](https://twitter.com/thiagovieiracom)
+Illustrator, Photoshop, Fireworks, Calculator, Contacts, Dropbox, Google Drive, Keynote, Nike+, Reminders, SourceTree, TestFlight and Activity Monitor by [@thiagovieiracom](https://twitter.com/thiagovieiracom)
 
 ---
 
