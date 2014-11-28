@@ -22,7 +22,7 @@ Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final
 
 ### More from Contributors
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/arthurpereira_preview_1127.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/anonymoussi_preview_1127.png)
 
 Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
 
