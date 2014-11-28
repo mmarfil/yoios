@@ -42,7 +42,7 @@ Twitter by [@fellipea_silva](http://twitter.com/fellipea_silva)
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matiasmelian_preview_1127.png)
 
-Instapaper (ReadKit) by [@iMAMDev](http://twitter.com/iMAMDev)
+Instapaper (ReadKit), Writer Pro and iA Writer by [@iMAMDev](http://twitter.com/iMAMDev)
 
 ---
 
