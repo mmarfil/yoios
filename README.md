@@ -30,7 +30,7 @@ Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview_1127.png)
 
-Chrome, CodeKit, iMovie, iPhoto, Numbers, Pages, SimpleNote, Sublime Text, Terminal and VLC by [@bdauton](http://twitter.com/bdauton)
+Chrome, CodeKit, iMovie, iPhoto, Numbers, Pages, SimpleNote, Sublime Text, Terminal, VLC, Boot2Docker and TweetDeck by [@bdauton](http://twitter.com/bdauton)
 
 ---
 
