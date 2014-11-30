@@ -16,7 +16,7 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1127.png)
 
-Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password and System Preferences.
+1Password, Adobe Illustrator, Adobe Photoshop, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences and Xcode.
 
 ---
 
@@ -46,9 +46,9 @@ Instapaper (ReadKit), Writer Pro and iA Writer by [@iMAMDev](http://twitter.com/
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1127.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1130.png)
 
-Day One, Evernote, iA Writer, Maps, OmniFocus, Pocket and Reeder by [@matt_fletcher](http://twitter.com/matt_fletcher)
+Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify and OmniFocus by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 ---
 
