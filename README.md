@@ -24,7 +24,7 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/anonymoussi_preview_1201.png)
 
-Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
+Finder, Firefox, Messages, Netbeans, Pixelmatr, Reminders, Skype, Spotify, Tweetbot, TweetDeck and Twitter by [@anonymous_si](http://twitter.com/anonymous_si)
 
 ---
 
