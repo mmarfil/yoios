@@ -28,9 +28,9 @@ Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview_1127.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview_1201.png)
 
-Chrome, CodeKit, iMovie, iPhoto, Numbers, Pages, SimpleNote, Sublime Text, Terminal, VLC, Boot2Docker and TweetDeck by [@bdauton](http://twitter.com/bdauton)
+Chrome, iMovie, iPhoto, Numbers, Keynote, Pages, SimpleNote, Sublime Text, Terminal, VLC, Boot2Docker, TweetDeck, Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, CodeKit and LibreOffice by [@bdauton](http://twitter.com/bdauton)
 
 ---
 
