@@ -22,7 +22,7 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### More from Contributors
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/anonymoussi_preview_1127.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/anonymoussi_preview_1201.png)
 
 Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
 
