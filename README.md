@@ -46,9 +46,9 @@ Instapaper (ReadKit), Writer Pro and iA Writer by [@iMAMDev](http://twitter.com/
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1130b.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1202.png)
 
-Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify and OmniFocus by [@matt_fletcher](http://twitter.com/matt_fletcher)
+Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify, OmniFocus, FaceTime, Game Center, Keynote, Numbers, Pages, MindNote and Transmit by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 ---
 
