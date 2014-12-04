@@ -14,9 +14,9 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### Icons
 
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1130b.png)
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1203.png)
 
-1Password, Adobe Illustrator, Adobe Photoshop, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition) and Notes.
+1Password, Adobe Illustrator, Adobe Photoshop, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition), Notes and Calendar.
 
 ---
 
@@ -61,6 +61,12 @@ Firezilla, iTerm, OmniFocus, Safari, Spotify and Wunderlist by [@rayPS_](http://
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryanburke_preview_1127.png)
 
 Clear, Eclipse, Photoshop and SourceTree by [@ryanb93](http://twitter.com/ryanb93)
+
+---
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagosanchz_preview.png)
+
+Skype by [@sanchez_thiago](https://twitter.com/sanchez_thiago)
 
 ---
 
