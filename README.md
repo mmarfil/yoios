@@ -18,7 +18,7 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 1Password, Adobe Illustrator, Adobe Photoshop, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition), Notes and Calendar.
 
-*PS. [Here’s](https://twitter.com/tbnv/status/540172143322222593) how to replace the Calendar icon. **Be careful and make sure you keep a backup**.*
+_PS. [Here’s](https://twitter.com/tbnv/status/540172143322222593) how to replace the Calendar icon. **Be careful and make sure you keep a backup**._
 
 ---
 
