@@ -78,6 +78,12 @@ Illustrator, Photoshop, Fireworks, Calculator, Contacts, Dropbox, Google Drive, 
 
 ---
 
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/jesseread_preview_1209.png)
+
+Beats Music by [@DarthNerdus](https://twitter.com/DarthNerdus)
+
+---
+
 ### Notes
 
 1. I use [LiteIcon](http://www.freemacsoft.net/liteicon/) to safely replace icons.
