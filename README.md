@@ -48,9 +48,9 @@ Instapaper (ReadKit), Writer Pro and iA Writer by [@iMAMDev](http://twitter.com/
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1209.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1214.png)
 
-Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify, OmniFocus, FaceTime, Game Center, Keynote, Numbers, Pages, MindNote, Transmit and Contacts by [@matt_fletcher](http://twitter.com/matt_fletcher)
+Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify, OmniFocus, FaceTime, Game Center, Keynote, Numbers, Pages, MindNote, Transmit, Contacts, Plex, Reminders, Screenhero and Things by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 ---
 
@@ -81,6 +81,12 @@ Illustrator, Photoshop, Fireworks, Calculator, Contacts, Dropbox, Google Drive, 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/jesseread_preview_1209.png)
 
 Beats Music by [@DarthNerdus](https://twitter.com/DarthNerdus)
+
+---
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/seanoldham_preview.png)
+
+Atom, Downcast, Git, Kindle and Minecraft by [Sean Oldham](http://seanosaur.com)
 
 ---
 
