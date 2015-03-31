@@ -89,6 +89,11 @@ Beats Music by [@DarthNerdus](https://twitter.com/DarthNerdus)
 Atom, Downcast, Git, Kindle and Minecraft by [Sean Oldham](http://seanosaur.com)
 
 ---
+![](https://raw.githubusercontent.com/habovh/yoios/master/Previews/jordanbecker_preview_0331.png)
+
+Coda, PHPStorm & Ulysses by [Jordan Becker](http://www.jordanbecker.fr/)
+
+---
 
 ### Notes
 
