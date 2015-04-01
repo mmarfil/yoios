@@ -89,9 +89,11 @@ Beats Music by [@DarthNerdus](https://twitter.com/DarthNerdus)
 Atom, Downcast, Git, Kindle and Minecraft by [Sean Oldham](http://seanosaur.com)
 
 ---
-![](https://raw.githubusercontent.com/habovh/yoios/master/Previews/jordanbecker_preview_0331.png)
+![](https://raw.githubusercontent.com/habovh/yoios/master/Previews/jordanbecker_preview_0401.png)
 
-Coda, PHPStorm & Ulysses by [Jordan Becker](http://www.jordanbecker.fr/)
+Calendar, Calendar (empty), Coda, PHPStorm & Ulysses by [Jordan Becker](http://www.jordanbecker.fr/).
+
+For Calendar icon, replace `App.icns` and `App-empty.icns` in `Calenar.app/Contents/Resources/` and `App-empty.icns` again in `Calenar.app/Contents/Resources/Calendar.docktileplugin/Contents/Resources/`.
 
 ---
 
