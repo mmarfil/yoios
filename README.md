@@ -90,6 +90,11 @@ Atom, Downcast, Git, Kindle and Minecraft by [Sean Oldham](http://seanosaur.com)
 
 ---
 
+![](no preview yet!)
+
+Terminal (ZSH) by [Daniel Schäfer](https://twitter.com/DevDaniel7)
+
+---
 ### Notes
 
 1. I use [LiteIcon](http://www.freemacsoft.net/liteicon/) to safely replace icons.
