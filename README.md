@@ -14,9 +14,9 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### Icons
 
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1203.png)
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1407.png)
 
-1Password, Adobe Illustrator, Adobe Photoshop, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition), Notes and Calendar.
+1Password, Adobe Illustrator, Adobe Photoshop, Affinity Photo, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition), Notes and Calendar.
 
 _PS. [Here’s](https://twitter.com/tbnv/status/540172143322222593) how to replace the Calendar icon. **Be careful and make sure you keep a backup**._
 
@@ -94,6 +94,18 @@ Atom, Downcast, Git, Kindle and Minecraft by [Sean Oldham](http://seanosaur.com)
 Calendar, Calendar (empty), Coda, PHPStorm & Ulysses by [Jordan Becker](http://www.jordanbecker.fr/).
 
 For Calendar icon, replace `App.icns` and `App-empty.icns` in `Calenar.app/Contents/Resources/` and `App-empty.icns` again in `Calenar.app/Contents/Resources/Calendar.docktileplugin/Contents/Resources/`.
+
+---
+
+Final Cut Pro, Mail, Messages, Safari Green, Safari, SourceTree, Spotify, Sublime Text, Terminal, Todoist, Xcode and iStudiez by [Camille Considine](https://github.com/cconsidine)
+
+---
+
+BattleNet, Chrome Launcher, Clean Archiver, GarageBand, GoogleKeep, Mail, Parallels Desktop, SourceTree, VLC and iTerm by [@hiking93](https://github.com/hiking93)
+
+---
+
+iOS Simulator by [@stefanceriu](https://github.com/stefanceriu)
 
 ---
 
